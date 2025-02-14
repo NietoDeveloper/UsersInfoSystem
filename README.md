@@ -12,7 +12,7 @@ A **Student Information Management System**, a web application designed to add, 
 
  - Clone the repository:
    ```bash
-   git clone https://github.com/KMyasar/task-management.git
+   git clone https://github.com/NietoDeveloper/UsersInfoSystem
  - Navigate to the project directory.
  - Install dependencies:
 	- **Frontend**
