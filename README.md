@@ -56,3 +56,6 @@ A **Student Information Management System**, a web application designed to add, 
 -   **Backend**: Node.js, Express.js
 -   **Database**: MongoDB
 -   **Styling**: CSS
+
+
+## Manuel Nieto software Developer
