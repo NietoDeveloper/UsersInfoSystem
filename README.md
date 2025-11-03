@@ -25,7 +25,7 @@ A **Student Information Management System**, a web application designed to add, 
  npm install axios
  ```
 
-  - **Backend**
+- **Backend**
 
   ```bash
   #~/Project_dir/
