@@ -55,7 +55,7 @@ A **Student Information Management System**, a web application designed to add, 
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
--   **Styling**: CSS
+- **Styling**: CSS
 
 
 <<<<<<< HEAD
