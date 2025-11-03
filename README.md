@@ -41,13 +41,13 @@ A **Student Information Management System**, a web application designed to add, 
    #~/Project_dir/
    cd my-app
    npm start
-   ```
+
    - **Frontend**
-   ```bash
+   bash
    #~/Project_dir/
    cd server
    node index.js
-   ```
+
  - Open the application in your browser at `http://localhost:3000`.
 
 ## Technologies Used
