@@ -4,7 +4,7 @@ A **Student Information Management System**, a web application designed to add, 
 
 ## Features
 
--   Add, view, update, and delete student details.
+- Add, view, update, and delete student details.
 -   Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.
 -   Built-in form validation for accurate data entry.
 
