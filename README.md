@@ -36,9 +36,12 @@ A **Student Information Management System**, a web application designed to add, 
  
  - Run the application:
 
-   - **Backend**
-   ```bash
+  - **Backend**
+
+   bash
+
    #~/Project_dir/
+
    cd my-app
    npm start
 
