@@ -68,6 +68,7 @@ A **Student Information Management System**, a web application designed to add, 
 
 <<<<<<< HEAD
 
-## Manuel Nieto software Developer
+## Manuel Nieto
 
+### 2025
 
