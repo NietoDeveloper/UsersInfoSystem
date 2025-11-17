@@ -20,7 +20,7 @@ A **Student Information Management System**, a web application designed to add, 
   - **Frontend**
 
  ```bash
- #~/Project_dir/
+
  npx create-react-app my-app
  cd my-app
  npm install axios
