@@ -70,7 +70,4 @@ A **Student Information Management System**, a web application designed to add, 
 
 ## Manuel Nieto software Developer
 
-=======
 
->>>>>>>
->>>>>>> 06713d29ad91553847a72f86eac7e0a5c4d857f5
