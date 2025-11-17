@@ -66,8 +66,6 @@ A **Student Information Management System**, a web application designed to add, 
 - **Database**: MongoDB
 - **Styling**: CSS
 
-<<<<<<< HEAD
-
 ## Manuel Nieto
 
 ## NietoDeveloper
