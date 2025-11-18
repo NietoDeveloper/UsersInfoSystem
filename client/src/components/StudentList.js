@@ -62,7 +62,6 @@ const StudentList = ({ students, fetchStudents }) => {
                 key={student._id} 
                 className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow-md border-l-4 border-indigo-500 space-y-2"
               >
-                {/* Mapeo de los datos en formato etiqueta: valor */}
                 <div className="text-sm font-medium text-gray-400 dark:text-gray-500">
                     Registration No: <span className="text-gray-900 dark:text-white font-semibold block">{student.registrationNumber}</span>
                 </div>
