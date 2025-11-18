@@ -41,8 +41,7 @@ const StudentList = ({ students, fetchStudents }) => {
       </div>
     );
   }
-
-  // Renderizado de la lista de estudiantes
+  
   return (
     <div className="container mx-auto p-4 md:p-8 max-w-[1800px]">
       <h2 className="text-3xl font-extrabold text-gray-800 dark:text-white mb-6 md:mb-8 border-b pb-2 border-indigo-200 dark:border-gray-700">
