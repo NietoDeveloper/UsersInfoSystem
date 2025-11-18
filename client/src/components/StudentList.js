@@ -6,7 +6,6 @@ const StudentList = ({ students, fetchStudents }) => {
   const [editingStudent, setEditingStudent] = useState(null);
 
   const deleteStudent = async (id) => {
-    // Confirmación simple antes de eliminar (opcional, pero buena práctica)
     if (window.confirm('Are you sure you want to delete this student?')) {
       try {
         await axios.delete(`http://localhost:5001/students/${id}`);
