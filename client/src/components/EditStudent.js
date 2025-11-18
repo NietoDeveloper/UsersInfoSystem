@@ -18,7 +18,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
       // Envía la solicitud PUT a la API usando el _id del estudiante para la URL.
       await axios.put(`http://localhost:5001/students/${student._id}`, formData);
       
-      // Detiene el modo de edición (posiblemente cierra el formulario o modal).
       stopEditing();
       
       if (fetchStudents) {
