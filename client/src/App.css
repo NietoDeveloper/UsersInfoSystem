@@ -42,7 +42,6 @@
   pointer-events: none; 
 }
 
-/* Animación del Logo */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: 
