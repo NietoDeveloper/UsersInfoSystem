@@ -31,8 +31,7 @@
   /* Visual */
   background-color: var(--color-dark-bg);
   color: var(--color-text-primary);
-  
-  /* Tipografía */
+
   font-size: calc(10px + 2vmin);
 }
 
