@@ -27,8 +27,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
-  /* Visual */
+
   background-color: var(--color-dark-bg);
   color: var(--color-text-primary);
 
