@@ -100,8 +100,7 @@ const AddStudent = ({ fetchStudents }) => {
             >
               Clear Form
             </button>
-            
-            {/* Botón principal: Add Student con hover azul/índigo */}
+
             <button
               type="submit"
               className="w-full sm:w-auto px-8 py-3 text-lg font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-opacity-50 transition duration-300 ease-in-out shadow-md hover:shadow-lg"
