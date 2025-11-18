@@ -76,7 +76,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
                   onChange={handleChange}
                   placeholder={`Enter new ${field.label}`}
                   required
-                  // Deshabilita la edición del número de registro (opcional, pero común)
                   disabled={field.name === 'registrationNumber'} 
                 />
               </div>
