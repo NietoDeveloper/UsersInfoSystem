@@ -15,7 +15,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      // Envía la solicitud PUT a la API usando el _id del estudiante para la URL.
       await axios.put(`http://localhost:5001/students/${student._id}`, formData);
       
       stopEditing();
