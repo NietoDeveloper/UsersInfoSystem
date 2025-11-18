@@ -78,7 +78,6 @@ const StudentList = ({ students, fetchStudents }) => {
                     Total Marks: <span className="text-gray-900 dark:text-white font-semibold block">{student.totalMarks}</span>
                 </div>
                 
-                {/* Botones para la vista de tarjeta */}
                 <div className="flex justify-end pt-3 space-x-3">
                   <button
                     onClick={() => startEditing(student)}
