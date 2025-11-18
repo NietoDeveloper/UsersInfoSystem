@@ -3,8 +3,7 @@
   --color-dark-bg: #282c34;
   --color-text-primary: white;
   --color-link-accent: #61dafb;
-  
-  /* Variables de Animación */
+
   --animation-duration: 20s;
   --animation-timing: linear;
 }
