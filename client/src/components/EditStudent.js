@@ -83,7 +83,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
             ))}
           </div>
 
-          {/* Contenedor de botones */}
           <div className="flex justify-end space-x-4 pt-4 border-t border-gray-200 dark:border-gray-700">
             
             <button
