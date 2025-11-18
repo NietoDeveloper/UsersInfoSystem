@@ -31,7 +31,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
       
     } catch (error) {
       console.error('Error updating student', error);
-      // Aquí se podría añadir una notificación de error
     }
   };
   
