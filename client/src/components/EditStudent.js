@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import axios from 'axios';
 
 const EditStudent = ({ student, stopEditing, fetchStudents }) => {
-  // Inicializa el estado del formulario con los datos del estudiante que se está editando.
   const [formData, setFormData] = useState(student);
 
   const handleChange = (e) => {
