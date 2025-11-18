@@ -26,7 +26,6 @@ const StudentList = ({ students, fetchStudents }) => {
     fetchStudents();
   };
 
-  // Define las cabeceras de la tabla
   const headers = [
     "Registration Number", "Name", "Branch", "Year", "Total Marks", "Actions"
   ];
