@@ -7,7 +7,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    // Convierte 'year' y 'totalMarks' a números inmediatamente, ya que son de tipo 'number'.
     const updatedValue = (name === 'year' || name === 'totalMarks') ? Number(value) : value;
     setFormData({ ...formData, [name]: updatedValue });
   };
