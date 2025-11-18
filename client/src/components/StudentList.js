@@ -31,8 +31,6 @@ const StudentList = ({ students, fetchStudents }) => {
   ];
 
   if (editingStudent) {
-    // Si hay un estudiante en modo de edición, muestra el formulario de edición
-    // Esto se renderiza con los estilos ya aplicados en el componente EditStudent refactorizado
     return (
       <div className="p-4 md:p-8 bg-gray-50 dark:bg-gray-900 min-h-screen">
         <EditStudent 
