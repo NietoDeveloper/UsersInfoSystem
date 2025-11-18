@@ -1,33 +1,74 @@
+:root {
+  /* Variables de Color */
+  --color-dark-bg: #282c34;
+  --color-text-primary: white;
+  --color-link-accent: #61dafb;
+  
+  /* Variables de Animación */
+  --animation-duration: 20s;
+  --animation-timing: linear;
+}
+
+/* ---------------------------------------------------- */
+/* Contenedor Principal */
+/* ---------------------------------------------------- */
 .App {
+  /* Tipografía */
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
+/* ---------------------------------------------------- */
+/* Encabezado */
+/* ---------------------------------------------------- */
 .App-header {
-  background-color: #282c34;
+  /* Box Model & Layout */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  
+  /* Visual */
+  background-color: var(--color-dark-bg);
+  color: var(--color-text-primary);
+  
+  /* Tipografía */
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
+/* ---------------------------------------------------- */
+/* Logo */
+/* ---------------------------------------------------- */
+.App-logo {
+  /* Box Model */
+  height: 40vmin;
+  
+  /* Interacción */
+  pointer-events: none; /* Previene la interacción del ratón */
+}
+
+/* Animación del Logo */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: 
+      App-logo-spin 
+      infinite 
+      var(--animation-duration) 
+      var(--animation-timing);
+  }
+}
+
+/* ---------------------------------------------------- */
+/* Enlace */
+/* ---------------------------------------------------- */
 .App-link {
-  color: #61dafb;
+  /* Visual */
+  color: var(--color-link-accent);
 }
 
+/* ---------------------------------------------------- */
+/* Keyframes */
+/* ---------------------------------------------------- */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
