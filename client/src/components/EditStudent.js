@@ -35,7 +35,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
     }
   };
   
-  // Array para generar los campos del formulario de manera limpia y DRY (Don't Repeat Yourself)
   const formFields = [
     { label: "Registration Number", name: "registrationNumber", type: "text" },
     { label: "Name", name: "name", type: "text" },
