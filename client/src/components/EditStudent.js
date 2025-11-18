@@ -45,7 +45,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
   ];
 
   return (
-    // Contenedor principal responsive y estilizado
     <div className="flex justify-center p-4 bg-gray-50 dark:bg-gray-900">
       <div className="w-full max-w-xl p-6 md:p-8 bg-white dark:bg-gray-800 shadow-2xl rounded-xl border border-indigo-100 dark:border-gray-700">
         
