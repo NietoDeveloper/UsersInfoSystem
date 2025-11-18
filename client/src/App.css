@@ -44,7 +44,7 @@
   height: 40vmin;
   
   /* Interacción */
-  pointer-events: none; /* Previene la interacción del ratón */
+  pointer-events: none; 
 }
 
 /* Animación del Logo */
