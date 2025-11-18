@@ -21,8 +21,6 @@ const EditStudent = ({ student, stopEditing, fetchStudents }) => {
       // Detiene el modo de edición (posiblemente cierra el formulario o modal).
       stopEditing();
       
-      // Llama a fetchStudents si está disponible para actualizar la lista de la vista principal.
-      // Asegúrate de que este prop se pase desde el componente padre si se necesita refrescar la lista.
       if (fetchStudents) {
           fetchStudents();
       }
