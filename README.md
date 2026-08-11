@@ -202,26 +202,7 @@ This project is licensed under the **MIT License**.
 sh
 
 
-**Step 4 — Configure environment variables**
 
-Create a `.env` file in the `server` directory with your MongoDB connection string and other necessary variables.
-
-**Step 5 — Run the application**
-
-**Backend**
-
-```bash
-# ~/Project_dir/
-cd server
-node index.js
-```
-
-**Frontend**
-
-```bash
-# ~/Project_dir/
-cd my-app
-npm start
 ```
 
 Open the application in your browser at `http://localhost:3000`.
