@@ -13,8 +13,7 @@ A **Student Information Management System**, a web application designed to add, 
 - **Frontend**
    bash
    #~/Project_dir/
-- Open the application in your browser at `http://localhost:3000`.
-
+- Open the application in your browser at `http:/
 ## Technologies Used
 
 - **Frontend**: React.js
