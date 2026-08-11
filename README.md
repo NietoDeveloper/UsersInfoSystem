@@ -193,13 +193,7 @@ This project is licensed under the **MIT License**.
 
 
 
-goColor=000"/>
-  </a>
 
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper/UsersInfoSystem">
