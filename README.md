@@ -8,7 +8,7 @@ A **Student Information Management System**, a web application designed to add, 
 - Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.
 
    git clone https://github.com/NietoDeveloper/UsersInfoSystem
-- Navigate to the project directo
+
 
 - Install dependencies:
   - **Frontend**
