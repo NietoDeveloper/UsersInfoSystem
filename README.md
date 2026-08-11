@@ -200,12 +200,6 @@ This project is licensed under the **MIT License**.
 
 
 
-## ✨ Features
-
-- **Full CRUD Operations:** Add, view, update, and delete student details.
-- **Interactive & Responsive UI:** Enhanced usability with Material-UI or Bootstrap.
-- **Form Validation:** Built-in validation ensuring accurate data entry.
-
 ---
 
 ## 🛠️ Technologies Used
