@@ -7,9 +7,6 @@ A **Student Information Management System**, a web application designed to add, 
 - Add, view, update, and delete student details.
 - Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.`.env`  file in the  `server`  directory with your MongoDB connection string and 
    #~/Project_dir/
-
-- **F
-   #~/Project_dir/
 - Open the application in your browser at `http:/
 ## Technologies Used
 
