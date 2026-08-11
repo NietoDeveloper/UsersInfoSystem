@@ -5,10 +5,7 @@ A **Student Information Management System**, a web application designed to add, 
 ## Features
 
 - Add, view, update, and delete student details.
-- Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.`.env`  file in the  `server`  directory with your MongoDB connection string and other necessary variables.
-
-   bash
-
+- Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.`.env`  file in the  `server`  directory with your MongoDB connection string and 
    #~/Project_dir/
 
    cd my-app
