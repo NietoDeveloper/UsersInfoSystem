@@ -6,7 +6,3 @@ A **Student Information Management System**, a web application designed to add, 
 
 - Add, view, update, and delete student details.
 - Interactive and responsive UI with Material-UI or 
-- Open the application in your browser at `http:/
-
-
-
