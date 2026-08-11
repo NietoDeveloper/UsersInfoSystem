@@ -200,15 +200,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🗂️ Project Structure
 
-```text
-UsersInfoSystem/
-├── back-end/          # Node.js + Express API, MongoDB integration
-└── client/            # React frontend
-    ├── public/
-    └── src/
-        └── components/  # Reusable UI components
+mponents/  # Reusable UI components
 ```
 
 ---
