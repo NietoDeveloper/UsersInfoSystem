@@ -193,14 +193,7 @@ This project is licensed under the **MIT License**.
 
 
 
-
-
-
-  <a href="https://committers.top/colombia#NietoDeveloper">
-    <img src="https://img.shields.io/badge/Committers.top-%231%20Colombia-gold?style=for-the-badge"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+goColor=000"/>
   </a>
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
