@@ -10,8 +10,7 @@ A **Student Information Management System**, a web application designed to add, 
 
    cd my-app
    npm star
-- **Frontend**
-   bash
+- **F
    #~/Project_dir/
 - Open the application in your browser at `http:/
 ## Technologies Used
