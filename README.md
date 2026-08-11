@@ -10,11 +10,6 @@ A **Student Information Management System**, a web application designed to add, 
 ## Technologies Used
 
 
-- **Database**: MongoDB
-- **Styling**: CSS
-
-## Manuel Nieto
-
 ## NietoDeveloper
 
 ### 2025
