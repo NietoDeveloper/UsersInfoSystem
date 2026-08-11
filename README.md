@@ -16,10 +16,7 @@ A **Student Information Management System**, a web application designed to add, 
   ```bash
   #~/Project_dir/
   mkdir server
-  cd server
-  npm init -y
-  npm install express body-parser cors mongoose
-  ```
+
 
 - Configure environment variables:
 
