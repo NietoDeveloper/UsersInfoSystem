@@ -200,28 +200,7 @@ This project is licensed under the **MIT License**.
 
 
 
----
-
-## 🛠️ Technologies Used
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| 🎨 **Frontend** | React.js |
-| ⚙️ **Backend** | Node.js, Express.js |
-| 🗄️ **Database** | MongoDB |
-| 💅 **Styling** | CSS |
-
-</div>
-
----
-
-## 🚀 Installation
-
-**Step 1 — Clone the repository**
-
-```bash
+sh
 git clone https://github.com/NietoDeveloper/UsersInfoSystem
 ```
 
