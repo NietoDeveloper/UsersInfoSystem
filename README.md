@@ -195,9 +195,6 @@ This project is licensed under the **MIT License**.
 
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=STUDENT%20INFO%20SYSTEM&fontSize=54&fontColor=FFD700&fontAlignY=42&desc=🎓%20Student%20Management%20Web%20App%20%C2%B7%20MERN%20Stack&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%93%9D+Add%2C+View%2C+Update%2C+Delete+Students;%E2%9C%85+Built-In+Form+Validation;%F0%9F%93%B1+Interactive%2C+Responsive+UI;%F0%9F%94%8C+React+%2B+Express+%2B+MongoDB;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
 
