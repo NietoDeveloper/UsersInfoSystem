@@ -205,8 +205,4 @@ sh
 
 ```
 
-Open the application in your browser at `http://localhost:3000`.
-
----
-
-## 👨‍💻 Author
+Open the application in your browser at `http://
