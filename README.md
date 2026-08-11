@@ -357,10 +357,3 @@ Open the application in your browser at `http://localhost:3000`.
 ---
 
 ## 👨‍💻 Author
-
-**Manuel Nieto (NietoDeveloper)**
-GitHub: [@NietoDeveloper](https://github.com/NietoDeveloper)
-
----
-
-
