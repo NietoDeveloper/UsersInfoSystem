@@ -10,10 +10,7 @@ A **Student Information Management System**, a web application designed to add, 
    git clone https://github.com/NietoDeveloper/UsersInfoSystem
 
  cd my-app
- npm install axios
 
-
-  ```bash
   #~/Project_dir/
   mkdir server
 
