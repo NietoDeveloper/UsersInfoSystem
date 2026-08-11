@@ -9,8 +9,7 @@ A **Student Information Management System**, a web application designed to add, 
    #~/Project_dir/
 
    cd my-app
-   npm start
-
+   npm star
 - **Frontend**
    bash
    #~/Project_dir/
