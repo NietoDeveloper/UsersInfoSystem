@@ -4,4 +4,3 @@ A **Student Information Management System**, a web application designed to add, 
 
 ## Features
 
-- Add, view, update, and delete student details.
