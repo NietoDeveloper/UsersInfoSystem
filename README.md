@@ -196,9 +196,6 @@ This project is licensed under the **MIT License**.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%93%9D+Add%2C+View%2C+Update%2C+Delete+Students;%E2%9C%85+Built-In+Form+Validation;%F0%9F%93%B1+Interactive%2C+Responsive+UI;%F0%9F%94%8C+React+%2B+Express+%2B+MongoDB;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper">
