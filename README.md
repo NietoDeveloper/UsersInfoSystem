@@ -9,8 +9,6 @@ A **Student Information Management System**, a web application designed to add, 
 
    git clone https://github.com/NietoDeveloper/UsersInfoSystem
 
-
-- Install dependencies:
   - **Frontend**
 
  ```bash
