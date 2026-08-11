@@ -7,10 +7,6 @@ A **Student Information Management System**, a web application designed to add, 
 - Add, view, update, and delete student details.
 - Interactive and responsive UI with Material-UI or Bootstrap for enhanced usability.
 
-
-- Clone the repository:
-
-   ```bash
    git clone https://github.com/NietoDeveloper/UsersInfoSystem
 - Navigate to the project directo
 
