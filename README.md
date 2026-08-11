@@ -201,22 +201,7 @@ This project is licensed under the **MIT License**.
 ---
 
 
-mponents/  # Reusable UI components
-```
-
----
-
-## 🔄 Student Record Flow
-
-```mermaid
-flowchart LR
-    A([👤 Admin / User]) -->|Fill Form| B[React Client]
-    B -->|Validate Input| C{Form Validation}
-    C -->|Valid| D[Axios Request]
-    C -->|Invalid| E[⚠️ Inline Error]
-    D --> F[Express API]
-    F -->|CRUD Operation| G[(MongoDB\nStudents Collection)]
-    G -->|Response| H([📋 Updated Student List])
+-->|Response| H([📋 Updated Student List])
 
     style A fill:#FFD700,color:#000,stroke:#FFD700
     style C fill:#06B6D4,color:#000,stroke:#06B6D4
