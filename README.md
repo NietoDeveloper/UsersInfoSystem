@@ -199,36 +199,8 @@ This project is licensed under the **MIT License**.
 
 
 
-
 sh
-git clone https://github.com/NietoDeveloper/UsersInfoSystem
-```
 
-**Step 2 — Navigate to the project directory**
-
-```bash
-cd UsersInfoSystem
-```
-
-**Step 3 — Install dependencies**
-
-**Frontend**
-
-```bash
-npx create-react-app my-app
-cd my-app
-npm install axios
-```
-
-**Backend**
-
-```bash
-# ~/Project_dir/
-mkdir server
-cd server
-npm init -y
-npm install express body-parser cors mongoose
-```
 
 **Step 4 — Configure environment variables**
 
