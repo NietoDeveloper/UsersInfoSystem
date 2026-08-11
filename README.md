@@ -12,7 +12,6 @@ A **Student Information Management System**, a web application designed to add, 
  cd my-app
 
   #~/Project_dir/
-  mkdir server
 
 
 - Configure environment variables:
