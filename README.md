@@ -198,18 +198,7 @@ This project is licensed under the **MIT License**.
 
 
 
----
 
-
--->|Response| H([📋 Updated Student List])
-
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style C fill:#06B6D4,color:#000,stroke:#06B6D4
-    style E fill:#FF0000,color:#fff
-    style H fill:#000,color:#FFD700,stroke:#FFD700
-```
-
----
 
 ## ✨ Features
 
