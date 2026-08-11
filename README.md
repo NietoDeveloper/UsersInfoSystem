@@ -9,8 +9,6 @@ A **Student Information Management System**, a web application designed to add, 
 
    git clone https://github.com/NietoDeveloper/UsersInfoSystem
 
-
- npx create-react-app my-app
  cd my-app
  npm install axios
  ```
